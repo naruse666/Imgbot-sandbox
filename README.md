@@ -1,2 +1,2 @@
 # Imgbot-sandbox
-![Imgbot](ImImgbot-image.png)
+![Imgbot](Imgbot-image.png)
